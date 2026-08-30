@@ -1,0 +1,4 @@
+Videos/
+__pycache__/
+*.pyc
+.~lock.*#

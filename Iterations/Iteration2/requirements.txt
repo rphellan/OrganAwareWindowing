@@ -1,0 +1,6 @@
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.5
+nibabel==5.4.2
+totalsegmentator==2.14.0
+torch==2.13.0+cu129

@@ -1,0 +1,8 @@
+"2": "right kidney"
+"3": "left kidney"
+"4": "gallbladder"
+"5": "esophagus"
+"11": "right adrenal gland"
+"12": "left adrenal gland"
+"13": "duodenum"
+
